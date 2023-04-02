@@ -1,4 +1,4 @@
-NAV BAR MOBILE
+/* NAV BAR MOBILE */
 #nav-bar .logo{
   float: none;
   text-align: center;
@@ -21,7 +21,7 @@ NAV BAR MOBILE
 
 /* HOME INFO MOBILE */
 #home-info .info-img{
-  float: none;
+  width: 100%;
 }
 
 #home-info .info-content{
