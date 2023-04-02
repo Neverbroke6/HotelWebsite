@@ -21,7 +21,7 @@
 
 /* HOME INFO MOBILE */
 #home-info .info-img{
-  width: 100%;
+  display: none;
 }
 
 #home-info .info-content{
@@ -39,15 +39,15 @@
 
 /* ANOTHER PAGE */
 /* ABOUT INFO */
-#about-info .info-right{
-  float: none;
-  width: 100%;
-  margin-top: 30px;
-}
-
+#about-info .info-right,
 #about-info .info-left{
   float: none;
   width: 100%;
+
+}
+
+#about-info .info-right{
+  margin-top: 30px;
 }
 
 .l-heading{
